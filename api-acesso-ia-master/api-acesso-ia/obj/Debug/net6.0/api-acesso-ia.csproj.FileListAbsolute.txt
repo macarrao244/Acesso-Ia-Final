@@ -1,0 +1,104 @@
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\appsettings.json
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\api-acesso-ia.staticwebassets.endpoints.json
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\api-acesso-ia.exe
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\api-acesso-ia.deps.json
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\api-acesso-ia.runtimeconfig.json
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\api-acesso-ia.dll
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\api-acesso-ia.pdb
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Humanizer.dll
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\api-acesso-ia.csproj.AssemblyReference.cache
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\api-acesso-ia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\api-acesso-ia.AssemblyInfoInputs.cache
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\api-acesso-ia.AssemblyInfo.cs
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\api-acesso-ia.csproj.CoreCompileInputs.cache
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\api-acesso-ia.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\api-acesso-ia.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\scopedcss\bundle\api-acesso-ia.styles.css
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\staticwebassets\msbuild.api-acesso-ia.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\staticwebassets\msbuild.api-acesso-ia.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\staticwebassets\msbuild.build.api-acesso-ia.props
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.api-acesso-ia.props
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.api-acesso-ia.props
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\api-aces.E1528F6C.Up2Date
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\api-acesso-ia.dll
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\refint\api-acesso-ia.dll
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\api-acesso-ia.pdb
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\api-acesso-ia.genruntimeconfig.cache
+C:\Users\luiz.alves\Documents\Materia Shilton\Projetos\Backend\api-acesso-ia-master\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\ref\api-acesso-ia.dll
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\api-acesso-ia.csproj.AssemblyReference.cache
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\api-acesso-ia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\api-acesso-ia.AssemblyInfoInputs.cache
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\api-acesso-ia.AssemblyInfo.cs
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\api-acesso-ia.csproj.CoreCompileInputs.cache
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\api-acesso-ia.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\api-acesso-ia.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\api-acesso-ia.dll
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\refint\api-acesso-ia.dll
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\api-acesso-ia.pdb
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\appsettings.json
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\api-acesso-ia.staticwebassets.endpoints.json
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\api-acesso-ia.exe
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\api-acesso-ia.deps.json
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\api-acesso-ia.runtimeconfig.json
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\api-acesso-ia.dll
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\api-acesso-ia.pdb
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Humanizer.dll
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\scopedcss\bundle\api-acesso-ia.styles.css
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\staticwebassets\msbuild.api-acesso-ia.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\staticwebassets\msbuild.api-acesso-ia.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\staticwebassets\msbuild.build.api-acesso-ia.props
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.api-acesso-ia.props
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.api-acesso-ia.props
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\api-aces.E1528F6C.Up2Date
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\api-acesso-ia.genruntimeconfig.cache
+C:\Users\kaique.oliveira\Documents\Projetos\Backend\api-acesso-ia-master\api-acesso-ia\obj\Debug\net6.0\ref\api-acesso-ia.dll
